@@ -1,0 +1,7 @@
+to initialize a project as node write npm init in cmd
+to install a package type npm install packagename
+install package globally
+npn i -g packagename
+to start a package type.. packagename  filename.js ie nodemon index.js 
+
+to unistall a package type npm uninstall packagename
